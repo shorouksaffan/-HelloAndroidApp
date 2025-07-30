@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyFirstApplication</string>
+    <string name="share">Share</string>
+    <string name="go_to_second">Go to Second</string>
+    <string name="welcome_to_the_app">Welcome to my app</string>
+    <string name="back">Back</string>
+    <string name="this_is_second_activity">This is Second Activity</string>
+</resources>
